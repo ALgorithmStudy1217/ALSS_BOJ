@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
+// 시험장 풀이
 // 1. 지도의 크기를 입력받는다
 // 2. 지도의 정보를 입력받는다
 // 3. bfs를 돌며 섬을 다 찾는다(모든 좌표 저장하기)
@@ -19,7 +20,6 @@ import java.util.StringTokenizer;
 // 5-1. island에서 이어진 2개의 섬을 삭제하고 새로운 섬을 추가한다 -> island에는 이어져있지 않은 n개의 섬만 남긴다
 
 public class Main {
-
 
     static BufferedReader bf;
     static StringTokenizer st;
