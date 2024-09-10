@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
  * 3차원 방문 배열에 0~canMoveCount까지 체크
  * Queue에 canMoveCount를 담아서 계속 갱신
  */
-public class Main {
+public class Main { 
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
